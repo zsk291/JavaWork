@@ -1,4 +1,4 @@
-package work_4_leetcode67_119_234_1018.extendDemo1;
+package work_4_leetcode67_119_234_1018.extendDemo1_AnLi;
 
 class Student {
     String name;
@@ -14,7 +14,7 @@ class SoftStudent extends Student {
     }
 }
 
-public class TestExtends {
+public class AnLi {
     public static void main(String[] args) {
         SoftStudent ss = new SoftStudent();//创建一个SoftStudent类对象
         ss.name = "张三";//为SoftwareStudent中的name属性赋值
