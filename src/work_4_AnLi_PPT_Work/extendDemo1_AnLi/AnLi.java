@@ -1,4 +1,4 @@
-package work_4_leetcode67_119_234_1018.extendDemo1_AnLi;
+package work_4_AnLi_PPT_Work.extendDemo1_AnLi;
 
 class Student {
     String name;

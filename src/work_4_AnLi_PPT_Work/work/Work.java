@@ -1,4 +1,4 @@
-package work_4_leetcode67_119_234_1018.work;
+package work_4_AnLi_PPT_Work.work;
 
 class Person {
     private String name;
