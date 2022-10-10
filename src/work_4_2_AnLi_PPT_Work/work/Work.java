@@ -1,4 +1,4 @@
-package work_4_AnLi_PPT_Work.work;
+package work_4_2_AnLi_PPT_Work.work;
 
 class Person {
     private String name;
